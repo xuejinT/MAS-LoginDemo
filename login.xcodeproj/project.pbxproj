@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5B722574D97FB1F44FFF2952 /* Pods_login.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 97D17BA556EF0260F7BE308E /* Pods_login.framework */; };
+		624D124A220119A8001E5023 /* Second View ControllerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 624D1249220119A8001E5023 /* Second View ControllerViewController.swift */; };
 		B209303D21FF84FC00B6ACC5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B209303C21FF84FC00B6ACC5 /* AppDelegate.swift */; };
 		B209303F21FF84FC00B6ACC5 /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B209303E21FF84FC00B6ACC5 /* StartViewController.swift */; };
 		B209304221FF84FC00B6ACC5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B209304021FF84FC00B6ACC5 /* Main.storyboard */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		624D1249220119A8001E5023 /* Second View ControllerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Second View ControllerViewController.swift"; sourceTree = "<group>"; };
 		97D17BA556EF0260F7BE308E /* Pods_login.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_login.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B209303921FF84FC00B6ACC5 /* login.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = login.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B209303C21FF84FC00B6ACC5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -90,6 +92,7 @@
 				B209303C21FF84FC00B6ACC5 /* AppDelegate.swift */,
 				B209303E21FF84FC00B6ACC5 /* StartViewController.swift */,
 				B209304021FF84FC00B6ACC5 /* Main.storyboard */,
+				624D1249220119A8001E5023 /* Second View ControllerViewController.swift */,
 				B209304321FF84FF00B6ACC5 /* Assets.xcassets */,
 				B22B724822000A140085CFBE /* GoogleService-Info.plist */,
 				B209304521FF84FF00B6ACC5 /* LaunchScreen.storyboard */,
@@ -226,6 +229,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B22B724621FF8E9D0085CFBE /* HomeViewController.swift in Sources */,
+				624D124A220119A8001E5023 /* Second View ControllerViewController.swift in Sources */,
 				B209305521FF891F00B6ACC5 /* LoginViewController.swift in Sources */,
 				B209303F21FF84FC00B6ACC5 /* StartViewController.swift in Sources */,
 				B22B724421FF8E890085CFBE /* SignUpViewController.swift in Sources */,
